@@ -155,7 +155,7 @@ function App() {
         
         {/* Home Button   */}
         <button 
-          onClick={() => chrome.tabs.create({ url: 'https://lockedin.eliascorp.org' })}
+          onClick={() => chrome.tabs.create({ url: 'https://lockedin.aeliasz.com' })}
           style={{
             width: 36, height: 36, borderRadius: 10,
             border: '1px solid var(--border)', background: 'rgba(0,0,0,0.3)',

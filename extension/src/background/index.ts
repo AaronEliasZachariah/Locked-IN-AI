@@ -16,7 +16,7 @@ function domainMatches(hostname: string, rule: string): boolean {
 }
 
 const PERMANENT_ALLOWLIST = [
-    "lockedin.eliascorp.org"
+    "lockedin.aeliasz.com"
 ];
 
 // this is the brain of the extension — runs silently, no ui

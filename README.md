@@ -25,9 +25,9 @@
 
 
 
-## [Deep Work Logger](lockedin.eliascorp.org)
+## [Deep Work Logger](lockedin.aeliasz.com)
 
-Sign into [lockedin.eliascorp.org](lockedin.eliascorp.org) with the same google account you used for the extension so you can log your deepwork. You can also create todos and the they will show up as options on the extension. You can quickly select a task to start a focus session. 
+Sign into [lockedin.aeliasz.com](lockedin.aeliasz.com) with the same google account you used for the extension so you can log your deepwork. You can also create todos and the they will show up as options on the extension. You can quickly select a task to start a focus session. 
 
 Also theres a leaderboard. Come compete against me!
 
